@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm @fyaja</h1>
+<h1 align="center">Hi 👋, I'm Fay</h1>
 - 🌱 I’m currently learning **HTML, CSS and Javascript**
 
 <h3 align="left">Connect with me:</h3>
