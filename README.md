@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fay</h1>
+<h2 align="center">Excited to learn new things everday - Think, Code, Commit !</h2>
 - 🌱 I’m currently learning HTML, CSS and Javascript
 
 <h3 align="left">Languages and Tools:</h3>
